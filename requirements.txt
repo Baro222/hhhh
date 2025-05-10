@@ -1,0 +1,2 @@
+requests
+snscrape>=0.7.0.20230429
