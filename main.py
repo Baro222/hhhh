@@ -1,5 +1,5 @@
 import os, time, json, requests
-from snscrape.modules.twitter import TwitterUserScraper
+from modules.twitter import TwitterUserScraper
 from utils import send_telegram, translate
 
 ACCOUNTS_FILE = "accounts.txt"
